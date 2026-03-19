@@ -1,5 +1,3 @@
-# Temporal-Hyperedge-Modeling-simplified-TPP-
-
 # Temporal Hyperedge Modeling (Simplified TPP)
 
 This project implements a lightweight, CPU-friendly model for temporal hyperedge interaction prediction, inspired by recent work on temporal point processes and dynamic graphs.
